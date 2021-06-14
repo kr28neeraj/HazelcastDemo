@@ -4,7 +4,7 @@ import com.hazelcast.core.Hazelcast;
 import com.hazelcast.core.HazelcastInstance;
 import java.util.Map;
 
-public class SimpleMapExample {
+public class HazelcastMapExample {
   public static void main(String[] args) {
     HazelcastInstance hz = Hazelcast.newHazelcastInstance();
 
