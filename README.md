@@ -35,7 +35,7 @@ Jun 14, 2021 11:56:43 AM com.hazelcast.core.LifecycleService <br>
 ## Code Example
   - HazelcastMapExample : This example will spin up a distributed map named <b> capitals </b> in the above set up 
   hazelcast cluster.
-  - HazelcastKeyLessCollectionExample This example will demo the use <b> Set </b>  and <b> List </b> collection in Hazelcast. 
+  - HazelcastKeyLessCollectionExample This example will demo the use distributed <b> Set </b>  and <b> List </b> collection in Hazelcast. 
 
 
 <h1>License</h1>
