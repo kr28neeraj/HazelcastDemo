@@ -38,7 +38,3 @@ Jun 14, 2021 11:56:43 AM com.hazelcast.core.LifecycleService <br>
   - HazelcastKeyLessCollectionExample This example will demo the use distributed <b> Set </b>  and <b> List </b> collection in Hazelcast. 
 
 
-<h1>License</h1>
-Neeraj Kumar <a href="https://www.linkedin.com/in/kr28neeraj"> Linkedin </a>
-
-
