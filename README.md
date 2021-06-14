@@ -3,7 +3,7 @@
 ## Motivation
 Create a Spring Boot project with Hazelcast as in-memory distributed cache.
 
-# slack community 
+## My Slack community for hazelcast
 
 https://app.slack.com/client/T01331THEQL/C015Q2TUBKL
 
