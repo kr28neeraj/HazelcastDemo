@@ -25,9 +25,9 @@ Jun 14, 2021 11:56:42 AM com.hazelcast.internal.cluster.ClusterService <br>
 INFO: [192.168.0.111]:5703 [dev] [4.1] <br>
 <br>
 Members {size:3, ver:5} [ <br>
-        Member [192.168.0.111]:5701 - 14108933-f528-4b76-9fc1-2e980ef54e6e <br>
-        Member [192.168.0.111]:5702 - 3876836e-a22b-4a35-8e0d-1643a1fbff4f <br>
-        Member [192.168.0.111]:5703 - 14390389-c8ed-4a88-a10e-0d2eec1cbc36 this <br>
+&nbsp;&nbsp;&nbsp;&nbsp;Member [192.168.0.111]:5701 - 14108933-f528-4b76-9fc1-2e980ef54e6e <br>
+&nbsp;&nbsp;&nbsp;&nbsp;Member [192.168.0.111]:5702 - 3876836e-a22b-4a35-8e0d-1643a1fbff4f <br>
+&nbsp;&nbsp;&nbsp;&nbsp;Member [192.168.0.111]:5703 - 14390389-c8ed-4a88-a10e-0d2eec1cbc36 this <br>
 ]  <br>
 
 Jun 14, 2021 11:56:43 AM com.hazelcast.core.LifecycleService <br>
