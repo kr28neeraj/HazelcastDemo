@@ -1,4 +1,4 @@
-package com.cs.hazelcastdemo;
+package com.cs.map;
 
 import com.hazelcast.core.Hazelcast;
 import com.hazelcast.core.HazelcastInstance;
