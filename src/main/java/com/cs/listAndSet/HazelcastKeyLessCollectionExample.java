@@ -1,4 +1,4 @@
-package com.cs.map;
+package com.cs.listAndSet;
 
 import com.hazelcast.core.Hazelcast;
 import com.hazelcast.core.HazelcastInstance;
@@ -6,8 +6,6 @@ import java.util.Collection;
 import java.util.List;
 import java.util.Map;
 import java.util.Set;
-
-import static com.fasterxml.jackson.databind.type.LogicalType.Collection;
 
 /**
  *  Hazelcast provide number of other collections for keyless groups of objects.
