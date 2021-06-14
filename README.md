@@ -33,7 +33,8 @@ Members {size:3, ver:5} [ <br>
 Jun 14, 2021 11:56:43 AM com.hazelcast.core.LifecycleService <br>
         
 ## Code Example
-- HazelcastMapExample : This example will spin up and distributed map named <b> capitals <b> . 
+- HazelcastMapExample : This example will spin up a distributed map named <b> capitals <b> in the above set up 
+  of 3 node hazelcast cluster . 
 
 
 <h1>License</h1>
