@@ -36,5 +36,7 @@ Jun 14, 2021 11:56:43 AM com.hazelcast.core.LifecycleService <br>
   - HazelcastMapExample : This example will spin up a distributed map named <b> capitals </b> in the above set up 
   hazelcast cluster.
   - HazelcastKeyLessCollectionExample This example will demo the use distributed <b> Set </b>  and <b> List </b> collection in Hazelcast. 
-
+  - SimpleQueueExample This example will demo the FIFO feature of queue collection in Hazelcast.
+    The output will get distributed in case of multiple client running but it won't get duplicated as Queue collection is getting used.
+                        
 
