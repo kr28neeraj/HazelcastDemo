@@ -1,5 +1,7 @@
 # HazelcastDemo
-Create a Spring Boot project with Hazelcast as distributed in memory cache.
+
+## Motivation
+Create a Spring Boot project with Hazelcast as in momory distributed cache.
 
 # slack community 
 
