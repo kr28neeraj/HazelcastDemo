@@ -4,6 +4,17 @@ import com.hazelcast.core.Hazelcast;
 import com.hazelcast.core.HazelcastInstance;
 import java.util.Map;
 
+/**
+ *
+ * This example demo the key-value storage provided by Hazelcast maps.
+ * After running the example use the below query to verify in hazelcast console if needed.
+ * hazelcast[default] > ns capitals
+ * namespace: capitals
+ *
+ * hazelcast[capitals] > m.get GB
+ * London
+ */
+
 public class HazelcastMapExample {
   public static void main(String[] args) {
     HazelcastInstance hz = Hazelcast.newHazelcastInstance();
@@ -19,5 +30,8 @@ public class HazelcastMapExample {
 
     System.err.println(
       "Capital city of GB: " + capitals.get("GB"));
+
+
+
   }
 }
